@@ -36,7 +36,14 @@
   "dependencies": {
     "module-alias": "^2.2.3"
   },
-  "_moduleAliases": {
-    "@": "dist"
-  }
+  "name": "clean_arch_type_orm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [],
+  "author": "Leonardo Cardoso",
+  "license": "ISC",
+  "description": ""
 }
