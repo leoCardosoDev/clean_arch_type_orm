@@ -11,7 +11,7 @@ const config: Config.InitialOptions = {
   coverageProvider: 'babel',
   testEnvironment: 'node',
   transform: {
-    '.+\\\\.ts$': 'ts-jest'
+    '.\.ts$': 'ts-jest'
   },
   moduleNameMapper: {
     '@/tests/(.*)': '<rootDir>/tests/$1',
